@@ -1,0 +1,3 @@
+class Contato{
+    String nome;
+}
